@@ -1,0 +1,8 @@
+Access Token: 
+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
+git remote set-url origi https://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github.com/stefanmitovski/MyRepo20.git
+
+git pull origin main
+create react app
+npx create-react-app .
+npm start
